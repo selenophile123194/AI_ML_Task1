@@ -53,5 +53,9 @@ The goal of this task is to learn how to load, inspect, and visualize a simple d
 ## ✅ Conclusion
 The Iris dataset is an excellent starting point for learning data analysis and visualization. Clear patterns emerge in petal dimensions, which can later be used for species classification.
 
----
+## 📚 References
+1. **Seaborn Documentation — Iris Dataset**  
+   🔗 [https://seaborn.pydata.org/data.html#iris-dataset](https://seaborn.pydata.org/data.html#iris-dataset)  
+2. **Original Iris Dataset (UCI Machine Learning Repository)**  
+   🔗 [https://archive.ics.uci.edu/dataset/53/iris](https://archive.ics.uci.edu/dataset/53/iris)
 
